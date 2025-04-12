@@ -1,0 +1,1 @@
+print("Badtameez keera janwar")
